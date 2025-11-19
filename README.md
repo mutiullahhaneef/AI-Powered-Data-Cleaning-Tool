@@ -1,8 +1,3 @@
-Below is a clean, professional, GitHub-optimized **README.md** version of your content.
-No emojis, proper Markdown structure, clean spacing, and highly readable.
-
----
-
 # AI Data Cleaning & Analysis App
 
 A Streamlit-based web application designed to simplify data cleaning and preprocessing.
@@ -127,20 +122,3 @@ streamlit run app.py
 
 Contributions are welcome.
 If you would like to enhance performance, improve UI, expand features, or fix issues, feel free to open a pull request or create an issue.
-
----
-
-## Contact
-
-For customization, improvements, or collaboration, feel free to reach out anytime.
-
----
-
-If you want, I can also create:
-
-* A polished `requirements.txt`
-* Badges for GitHub
-* Sample screenshots section
-* MIT License file
-
-Just tell me.
